@@ -15,6 +15,7 @@ MonoBehaviour:
   cost: 50
   type: 1
   image: {fileID: 3581164223748601600, guid: 0c0e10f633d07584d9dff71eed133580, type: 3}
+  prefab: {fileID: 3622231218858738480, guid: 9f993a9374599d34f80761e4cdc906c2, type: 3}
   description: 
   minDamage: 1
   maxDamage: 10
